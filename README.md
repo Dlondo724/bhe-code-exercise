@@ -11,7 +11,7 @@ you are encouraged to deviate from Eratosthenes's algorithm, modify the
 existing functions/methods, or anything else that might showcase your ability; 
 provided the following requirements are satisfied.
 
-You must author your work in Go, JavaScript/TypeScript, or C# - all 
+You must author your work in Go, JavaScript/TypeScript, Python, or C# - all 
 other language submissions will be rejected. Stub code has been provided, so 
 please choose from one of the provided language stubs that is most 
 relevant to your skill set and the position you are applying for.
@@ -24,6 +24,7 @@ relevant to your skill set and the position you are applying for.
   - Go: `go test ./...`
   - C#: `dotnet test Sieve.Tests`
   - Javascript: `npm run test`
+  - Python: `python -m unittest test_sieve.py`
 - Your solution is committed to your project's `main` branch, no uncommitted changes or untracked files please
 - Submit the link to your public fork for review
 
